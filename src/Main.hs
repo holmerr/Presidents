@@ -1,9 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
--- | You can find a tutorial covering this template at https://www.fpcomplete.com/school/attoparsec
-
-module Main where
-
+-- The tutorial for this template can be found at https://www.fpcomplete.com/school/attoparsec
 import Data.Word
 import Data.Time
 import Data.Attoparsec.Char8
