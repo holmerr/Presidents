@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 In this tutorial you will learn how to parse log-like files and how to
@@ -2220,3 +2221,7 @@ I invite you to try to parse bigger things. Following the
 it should not be hard. As an example, Bryan O'Sullivan wrote an HTTP parser
 [here](https://bitbucket.org/bos/attoparsec/src/tip/examples/RFC2616.hs).
 I think it is easy to read once you know [how HTTP is defined](http://tools.ietf.org/html/rfc4180).
+=======
+# Presidents
+U. S. Presidents quiz
+>>>>>>> f3a56a1084703b1ba184be4e4f1fe45215c8e2a1
