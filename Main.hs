@@ -16,7 +16,6 @@ main = do
   file <- readFile "Presidents.csv"
   --mapM_ putStrLn (lines file)
   print (extractFields (head $ lines $ file))
-  putStrLn "Test"
   
 
     
